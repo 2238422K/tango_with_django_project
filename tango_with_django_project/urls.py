@@ -25,5 +25,5 @@ urlpatterns = [
     # with rango/ to be handled by
     # the rango application
     url(r'^admin/', admin.site.urls),
-    url(r'^rango/about', include('rango.urls')),
 ]
+
