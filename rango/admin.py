@@ -1,5 +1,5 @@
+from rango.models import UserProfile
 from rango.models import Category, Page
-
 from django.contrib import admin
 
 # Register your models here.
